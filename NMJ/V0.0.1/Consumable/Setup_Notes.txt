@@ -1,0 +1,13 @@
+Top portion:
+Stock Material: Chemcast Cast Acrylic (Transparent)
+Stock Height:18 mm
+Stock Length (x): 6" (152.4 mm)
+Stock Width (y): 4" (101.6 mm)
+Recommended Standoff: 1/4"
+
+Bottom portion: 
+Stock Material: Chemcast Cast Acrylic (Transparent)
+Stock Height: 5.8 mm
+Stock Length (x): 6" (152.4 mm)
+Stock Width (y): 4" (101.6 mm)
+Recommended Standoff: 1/4"
