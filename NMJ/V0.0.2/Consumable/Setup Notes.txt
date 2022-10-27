@@ -1,0 +1,20 @@
+Top portion:
+Stock Material: Chemcast Cast Acrylic (Transparent)
+Stock Height:18 mm (On first side, origin is at base of the stock, so set height = Standoff + 18, regardless of measured stock height)
+Stock Length (x): 6" (152.4 mm)
+Stock Width (y): 4" (101.6 mm)
+Recommended Standoff: 1/4"
+Final Part Height: 14.5 mm (Origin is at the top of the stock on the second side, so stock height should be Standoff + 14.5
+
+
+Bottom portion: 
+Stock Material: Chemcast Cast Acrylic (Transparent)
+Stock Height: 3/16" (4.7626 mm) (Origin is at the top of the stock here, so set stock height to the measured stock height + Standoff)
+Stock Length (x): 6" (152.4 mm)
+Stock Width (y): 4" (101.6 mm)
+Recommended Standoff: 1/4"
+
+Adhesive:
+Width: 12.526 cm
+Length: 8.298 cm
+4x adhesive foil on cricut with fine-point blade
