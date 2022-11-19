@@ -1,19 +1,20 @@
 Top portion:
 Stock Material: Chemcast Cast Acrylic (Transparent)
-Stock Height:18 mm (On first side, origin is at base of the stock, so set height = Standoff + 18, regardless of measured stock height)
+Starting Stock Height:18.5 mm -- for first file, set stock to 18.5 mm + standoff height
 Stock Length (x): 6" (152.4 mm)
 Stock Width (y): 4" (101.6 mm)
-Recommended Standoff: 1/4"
-Final Part Height: 14.5 mm (Origin is at the top of the stock on the second side, so stock height should be Standoff + 14.5
+Recommended Standoff: ~1/4"
+Final Part Height: 14.5 mm
+Milling the second side, use 14.5 mm as the stock height, remove standoff
 
 Bottom portion: 
 Stock Material: Chemcast Cast Acrylic (Transparent)
-Stock Height: 5.8 mm (Origin is at the top of the stock here, so set stock height to the measured stock height + Standoff) 
+Starting Stock Height: 5.8 mm 
 Stock Length (x): 6" (152.4 mm)
 Stock Width (y): 4" (101.6 mm)
-Recommended Standoff: 1/4"
+Recommended Standoff: ~1/4"
 
 Adhesive:
-4x adhesive foil on cricut with fine-point blade
+4x aluminum foil on cricut with fine-point blade (red cap)
 Tear off center portion, then "wings", then semicircle
 
